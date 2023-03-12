@@ -7,7 +7,7 @@ Merhaba, StarProduct projesi İstanbul - Beşiktaş Wissen Akademi'de Kursiyerli
 - Proje Visual Studio .Net 6 ASP.NET MVC CORE ile yazıldı.
 - Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
 - Projede AspnetCore Identity kullanarak üyelik sistemi yazıldı.
-- Projeyi 4 katman olarak yazıldı.(EL,DL,BL,UI)
+- Proje 4 katman olarak yazıldı.(EL,DL,BL,UI)
 - Projemde admin paneli bulunmakta ve admin paneli üzerinden ürün ekleme,güncelleme,silme yine aynı şekilde marka ve kategorilere de aynı işlemler yapılabilmektedir.
 - Bir ürünü güncellemek istediğimizde ürünün bilgileri veritabanından gelmektedir.
 
